@@ -9,5 +9,9 @@ Atualmente curso Ciência de Dados na Universidade Federal de Minas Gerais (UFMG
 Interesses:
 Estatística aplicada, machine learning, análise de dados, ciência aberta, visualização de dados e projetos com impacto social.
 
+Linguagens: Python, C, C++.
+
+Ferramentas: Excel, Jupyter Notebook, VS Code, Git e GitHub
+
 Busco desafios que me permitam aprender, crescer e aplicar meu conhecimento para gerar impacto positivo na sociedade.
 
